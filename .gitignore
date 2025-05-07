@@ -1,0 +1,17 @@
+/vendor
+/.idea
+/public/storage
+/storage/*.key
+/node_modules
+Homestead.json
+Homestead.yaml
+.env
+/nbproject/
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+
+/nodejs/node_modules
+/nodejs/.env
+/nodejs/package-lock.json
+/nodejs/onlineusers.json
